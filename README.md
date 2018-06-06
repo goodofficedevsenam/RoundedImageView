@@ -7,7 +7,7 @@ An advanced image view to display images with rounded corners and in circle
 Step 1. Add the JitPack repository to your build file.
 
 Add it in your root build.gradle at the end of repositories:
-```
+```gradle
 allprojects {
 	repositories {
 	  ...
@@ -16,12 +16,12 @@ allprojects {
 }
 ```
   
-  Step 2. Add the dependency
-  ```
+Step 2. Add the dependency
+```gradle
   dependencies {
 		implementation 'com.github.chirag-kachhadiya:RoundedImageView:1.0'
 	}
- ```
+```
   
 # Usage
 in xml:
