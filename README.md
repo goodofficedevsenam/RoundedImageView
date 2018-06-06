@@ -41,7 +41,7 @@ in xml:
 
 > Of course supports adjustViewBound.
 
-### For Round Image
+### For Circle Image
 in xml:
 
 ```xml
@@ -53,6 +53,6 @@ in xml:
         app:make_circle="true" />
 ```
 
-> You can make image round by 'app:make_circle' attribute with 'true' value.
+> You can make image circle by 'app:make_circle' attribute with 'true' value.
 
 > When using round image make sure width and height both are same for better result.
