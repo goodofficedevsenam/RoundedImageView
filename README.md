@@ -35,3 +35,7 @@ in xml:
             android:src="@drawable/the_hundred"
             app:corner_radius="10" />
 ```
+
+> You can set corner radius by 'app:corner_radius' attribute.
+
+> Of course supports adjustViewBound.
