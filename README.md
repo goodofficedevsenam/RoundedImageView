@@ -40,3 +40,19 @@ in xml:
 > You can set corner radius by 'app:corner_radius' attribute.
 
 > Of course supports adjustViewBound.
+
+### For Round Image
+in xml:
+
+```xml
+<com.infinityandroid.roundedimageview.RoundedImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/tony_stark"
+        app:make_circle="true" />
+```
+
+> You can meke image round by 'app:make_circle' attribute with 'true' value.
+
+> When using round image make sure width and height both are same for better result.
