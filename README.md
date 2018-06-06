@@ -53,6 +53,6 @@ in xml:
         app:make_circle="true" />
 ```
 
-> You can meke image round by 'app:make_circle' attribute with 'true' value.
+> You can make image round by 'app:make_circle' attribute with 'true' value.
 
 > When using round image make sure width and height both are same for better result.
