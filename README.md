@@ -14,11 +14,24 @@ allprojects {
 		maven { url 'https://jitpack.io' }
 	}
 }
-  ```
+```
   
   Step 2. Add the dependency
   ```
   dependencies {
 		implementation 'com.github.chirag-kachhadiya:RoundedImageView:1.0'
 	}
-  ```
+ ```
+  
+# Usage
+in xml:
+
+```xml
+<com.infinityandroid.roundedimageview.RoundedImageView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/the_hundred"
+            app:corner_radius="10" />
+```
