@@ -1,5 +1,5 @@
 # RoundedImageView
-An advanced image view to display images with rounded corners and in circle
+
 
 ![Image of RoundImageView](http://infinityandroid.com/chirag/repo_imgs/rounded_image_view.png)
 
