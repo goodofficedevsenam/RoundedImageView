@@ -24,6 +24,7 @@ dependencies {
 ```
   
 # Usage
+### For Rounded Corner Image
 in xml:
 
 ```xml
