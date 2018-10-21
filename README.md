@@ -1,7 +1,7 @@
 # RoundedImageView
 
 
-![Image of RoundImageView](http://infinityandroid.com/chirag/repo_imgs/rounded_image_view.png)
+<img src="Screenshot_1540123539.png" width="250">
 
 # Include In Your Project
 Step 1. Add the JitPack repository to your build file.
