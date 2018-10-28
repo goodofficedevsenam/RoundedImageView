@@ -58,7 +58,7 @@ in xml:
 > When using round image make sure width and height both are same for better result.
 
 # Developed By
-Chirag Kachhadiya - [Infinity Android](http://www.infinityandroid.com/)
+[Chirag Kachhadiya](http://infinityandroid.com/portfolio)
 
 # License
 
